@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<posts>
+<post>
+<ID>605</ID>
+<EMAIL><![CDATA[hipm@rambler.ru]]></EMAIL>
+<ZAL><![CDATA[Кафе]]></ZAL>
+<PLACE><![CDATA[15-71]]></PLACE>
+<SESSION><![CDATA[01.12.2014 12.00]]></SESSION>
+<SUMMA><![CDATA[150]]></SUMMA>
+<DATE><![CDATA[2015-01-29]]></DATE>
+<STATUS><![CDATA[BRON]]></STATUS>
+</post><post>
+<ID>604</ID>
+<EMAIL><![CDATA[hm@rambler.ru]]></EMAIL>
+<ZAL><![CDATA[Кафе]]></ZAL>
+<PLACE><![CDATA[13-60,11-57,9-50]]></PLACE>
+<SESSION><![CDATA[01.12.2014 12.00]]></SESSION>
+<SUMMA><![CDATA[550]]></SUMMA>
+<DATE><![CDATA[2015-01-29]]></DATE>
+<STATUS><![CDATA[SALE]]></STATUS>
+</post></posts>

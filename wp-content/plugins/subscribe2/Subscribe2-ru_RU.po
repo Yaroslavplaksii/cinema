@@ -1,0 +1,1869 @@
+# Copyright (C) 2014 Subscribe2
+# This file is distributed under the same license as the Subscribe2 package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Subscribe2 10.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/subscribe2\n"
+"POT-Creation-Date: 2014-06-03 20:53:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-05-01 12:08+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: admin/app_page.php:15
+msgid "Final Step: Place the widget on your site to get started"
+msgstr "Заключительный шаг: Установите виджет на Ваш сайт, чтобы начать"
+
+#: admin/app_page.php:16
+msgid "Drag the widget to a prominent place to maximize signups"
+msgstr ""
+"Перетащите виджет на видное место, чтобы максимизировать количество "
+"подписчиков"
+
+#: admin/app_page.php:17
+msgid "Place Widget Now"
+msgstr "Теперь поместите виджет"
+
+#: admin/app_page.php:18
+msgid "Tips"
+msgstr "Подсказки"
+
+#: admin/app_page.php:20
+msgid ""
+"Already have the widget in place? Manage your ReadyGraph account <a href=\"%s"
+"\">here</a>"
+msgstr ""
+"У вас уже есть виджет? Управление вашей учетной записью ReadyGraph   <a href="
+"\"%s\">здесь</a>"
+
+#: admin/app_page.php:21
+msgid ""
+"Need help? Email <a href=\"%1$s\">%2$s</a> or click <a href=\"%3$s\">here</a>"
+msgstr ""
+"Нужна помощь? Напишите нам <a href=\"%1$s\">%2$s</a> или кликните <a href="
+"\"%3$s\">здесь</a>"
+
+#: admin/app_page.php:24
+msgid "Unlink ReadyGraph Account"
+msgstr "Открепить учетную запись ReadyGraph"
+
+#: admin/app_page.php:31
+msgid "Subscribe2, Now with Readygraph"
+msgstr "Subscribe2  теперь с Readygraph"
+
+#: admin/app_page.php:32
+msgid "Activate Readygraph features to optimize Subscribe2 functionality"
+msgstr ""
+"Активировать возможности Readygraph для расширения функциональности плагина  "
+"Subscribe2"
+
+#: admin/app_page.php:36
+msgid "Free Signup"
+msgstr "Регистрация"
+
+#: admin/app_page.php:38
+msgid "Site URL"
+msgstr "URL сайта"
+
+#: admin/app_page.php:43
+msgid "Name"
+msgstr "Имя"
+
+#: admin/app_page.php:48 admin/app_page.php:73
+msgid "Email"
+msgstr "E-mail"
+
+#: admin/app_page.php:53 admin/app_page.php:78
+msgid "Password"
+msgstr "Пароль"
+
+#: admin/app_page.php:58
+msgid "Confirm Password"
+msgstr "Подтвердите пароль"
+
+#: admin/app_page.php:62 classes/class-s2-frontend.php:119
+msgid ""
+"By signing up, you agree to our <a href=\"%1$s\">Terms of Service</a> and <a "
+"href=\"%2$s\">Privacy Policy</a>"
+msgstr ""
+"Регистрируясь, вы принимаете наши <a href=\"%1$s\">условия</a> и <a href="
+"\"%2$s\">политику конфиденциальности</a>"
+
+#: admin/app_page.php:64
+msgid "Continue to place widget"
+msgstr "Продолжить размещение виджета"
+
+#: admin/app_page.php:71
+msgid "Already a member?"
+msgstr "Вы уже зарегистрированы?"
+
+#: admin/app_page.php:83
+msgid "Sign In"
+msgstr "Войти"
+
+#: admin/app_page.php:90
+msgid "Signup For These Benefits"
+msgstr "Зарегистрируйтесь, чтобы получить преимущества"
+
+#: admin/app_page.php:91
+msgid "Grow your subscribers faster"
+msgstr "Увеличить количество подписчиков быстрее"
+
+#: admin/app_page.php:92
+msgid "Engage users with automated email updates"
+msgstr "Привлекайте пользователей автоматическими обновлениями на е-мейл"
+
+#: admin/app_page.php:93
+msgid "Enhanced email deliverablility"
+msgstr "Улучшенная возможность доставки на е-мейл"
+
+#: admin/app_page.php:94
+msgid "Track performace with user-activity analytics"
+msgstr ""
+"Отслеживайте эффективность с помощью анализа пользовательской активности"
+
+#: admin/send_email.php:71
+msgid "Your email was empty"
+msgstr "Ваше электронное письмо было пустым"
+
+#: admin/send_email.php:78
+msgid "Check your settings and check with your hosting provider"
+msgstr "Проверьте ваши настройки и настройки вашего хостинг-провайдера"
+
+#: admin/send_email.php:83
+msgid "Preview message sent!"
+msgstr "Сообщение для предварительного просмотра отправлено!"
+
+#: admin/send_email.php:85
+msgid "Message sent!"
+msgstr "Сообщение отправлено!"
+
+#: admin/send_email.php:89
+msgid "Message failed!"
+msgstr "Сообщение не отправлено!"
+
+#: admin/send_email.php:99
+msgid "Send an email to subscribers"
+msgstr "Отправить подписчикам электронное письмо"
+
+#: admin/send_email.php:107
+msgid "A message from"
+msgstr "Сообщение от"
+
+#: admin/send_email.php:112
+msgid "Subject"
+msgstr "Тема"
+
+#: admin/send_email.php:115
+msgid "Add More Files"
+msgstr "Добавить файлы"
+
+#: admin/send_email.php:117
+msgid "Recipients:"
+msgstr "Получатели:"
+
+#: admin/send_email.php:120
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: admin/send_email.php:120
+msgid "Send"
+msgstr "Отправить"
+
+#: admin/settings.php:13
+msgid "Options reset!"
+msgstr "Настройки сброшены!"
+
+#: admin/settings.php:24
+msgid "Preview message(s) sent to logged in user"
+msgstr ""
+"Сообщения для предварительного просмотра отправлены на адрес текущего "
+"пользователя системы"
+
+#: admin/settings.php:28
+msgid ""
+"The Digest Notification email contained no post information. No email was "
+"sent"
+msgstr ""
+"Обзорное уведомление не содержало информации о публикациях и поэтому не было "
+"отправлено"
+
+#: admin/settings.php:30
+msgid "Attempt made to resend the Digest Notification email"
+msgstr "Сделана попытка послать обзорное уведомление повторно"
+
+#: admin/settings.php:111
+msgid "Options saved!"
+msgstr "Настройки сохранены!"
+
+#: admin/settings.php:120
+msgid "You must create a WordPress page for this plugin to work correctly."
+msgstr ""
+"Чтобы этот плагин работал правильно, Вам нужно создать страницу WordPress."
+
+#: admin/settings.php:135
+msgid ""
+"Your chosen email type (per-post or digest) does not support the following "
+"keywords:"
+msgstr "Выбранный тип  email не поддерживает следующие ключевые слова:"
+
+#: admin/settings.php:136
+msgid "Modify your template"
+msgstr "Изменить шаблон"
+
+#: admin/settings.php:149
+msgid ""
+"You appear to be sending notifications from %1$s, which has a different "
+"domain name than your blog server %2$s. This may result in failed emails."
+msgstr ""
+"Вы отправляете  уведомления с почтового адреса  %1$s, отличного от домена "
+"вашего сайта %2$s.  Это может привести к неудачным попыткам доставки."
+
+#: admin/settings.php:160 classes/class-s2-admin.php:84
+msgid "Email Settings"
+msgstr "Настройки e-mail"
+
+#: admin/settings.php:161 classes/class-s2-admin.php:92
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: admin/settings.php:162 classes/class-s2-admin.php:99
+msgid "Registered Users"
+msgstr "Зарегистрированные пользователи"
+
+#: admin/settings.php:163 classes/class-s2-admin.php:106
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: admin/settings.php:164 classes/class-s2-admin.php:113
+msgid "Miscellaneous"
+msgstr "Прочее"
+
+#: admin/settings.php:185
+msgid ""
+"Restrict the number of <strong>recipients per email</strong> to (0 for "
+"unlimited)"
+msgstr "Ограничить количество получателей на одно письмо (0 – неограниченно)"
+
+#: admin/settings.php:187 admin/settings.php:424
+#: classes/class-s2-admin.php:734 classes/class-s2-list-table.php:36
+msgid "Edit"
+msgstr "Изменить"
+
+#: admin/settings.php:190 admin/settings.php:427
+#: classes/class-s2-admin.php:748
+msgid "Update"
+msgstr "Обновить"
+
+#: admin/settings.php:191 admin/settings.php:428
+#: classes/class-s2-admin.php:749
+msgid "Revert"
+msgstr "Отмена"
+
+#: admin/settings.php:193
+msgid "Send Admins notifications for new"
+msgstr "Отправлять администратору уведомления при"
+
+#: admin/settings.php:195
+msgid "Subscriptions"
+msgstr "Подписки"
+
+#: admin/settings.php:197
+msgid "Unsubscriptions"
+msgstr "Отмена подписок"
+
+#: admin/settings.php:199
+msgid "Both"
+msgstr "И то, и другое"
+
+#: admin/settings.php:201
+msgid "Neither"
+msgstr "Ни то, ни другое"
+
+#: admin/settings.php:203
+msgid "Include theme CSS stylesheet in HTML notifications"
+msgstr "Использовать в HTML-уведомлениях таблицу стилей CSS из темы "
+
+#: admin/settings.php:205 admin/settings.php:211 admin/settings.php:225
+#: admin/settings.php:230 admin/settings.php:235 admin/settings.php:356
+#: admin/settings.php:361 admin/settings.php:375 admin/settings.php:382
+#: admin/settings.php:396 admin/settings.php:402 admin/subscribers.php:297
+#: admin/your_subscriptions.php:123 admin/your_subscriptions.php:164
+msgid "Yes"
+msgstr "Да"
+
+#: admin/settings.php:207 admin/settings.php:213 admin/settings.php:227
+#: admin/settings.php:232 admin/settings.php:237 admin/settings.php:353
+#: admin/settings.php:358 admin/settings.php:363 admin/settings.php:377
+#: admin/settings.php:384 admin/settings.php:393 admin/settings.php:398
+#: admin/settings.php:404 admin/subscribers.php:299
+#: admin/your_subscriptions.php:125 admin/your_subscriptions.php:168
+msgid "No"
+msgstr "Нет"
+
+#: admin/settings.php:209
+msgid "Send Emails for Pages"
+msgstr "Отправлять письма для страниц"
+
+#: admin/settings.php:217
+msgid ""
+"Subscribe2 will send email notifications for the following custom post types"
+msgstr ""
+"Этот плагин будет отправлять уведомления по электронной почте для следующих "
+"типов публикаций"
+
+#: admin/settings.php:223
+msgid "Send Emails for Password Protected Posts"
+msgstr "Отправлять письма для публикаций, защищённых паролем"
+
+#: admin/settings.php:228
+msgid "Send Emails for Private Posts"
+msgstr "Отправлять письма для личных записей"
+
+#: admin/settings.php:233
+msgid "Include Sticky Posts at the top of all Digest Notifications"
+msgstr ""
+"Показывать прикреплённые записи вверху обзорных уведомлений (дайджестов) "
+
+#: admin/settings.php:238
+msgid "Send Email From"
+msgstr "Отправлять письма от имени"
+
+#: admin/settings.php:243
+msgid "Send Emails"
+msgstr "Отправлять письма"
+
+#: admin/settings.php:245
+msgid "For digest notifications, date order for posts is"
+msgstr "В обзорных уведомлениях порядок публикаций по дате:"
+
+#: admin/settings.php:247
+msgid "Descending"
+msgstr "Убывающий"
+
+#: admin/settings.php:249
+msgid "Ascending"
+msgstr "Возрастающий"
+
+#: admin/settings.php:251
+msgid "Add Tracking Parameters to the Permalink"
+msgstr "Добавить к постоянной ссылке параметры отслеживания"
+
+#: admin/settings.php:253
+msgid ""
+"eg. utm_source=subscribe2&amp;utm_medium=email&amp;"
+"utm_campaign=postnotify&amp;utm_id={ID}&amp;utm_title={TITLE}"
+msgstr ""
+"например, utm_source=subscribe2&amp;utm_medium=email&amp;"
+"utm_campaign=postnotify&amp;utm_id={ID}&amp;utm_title={TITLE}"
+
+#: admin/settings.php:264
+msgid "Notification email (must not be empty)"
+msgstr "Настройки e-mail (не должны быть пустыми)"
+
+#: admin/settings.php:265 admin/settings.php:296 admin/settings.php:301
+msgid "Subject Line"
+msgstr "Тема письма"
+
+#: admin/settings.php:270
+msgid "Send Email Preview"
+msgstr "Отправить пример для предварительного просмотра"
+
+#: admin/settings.php:271
+msgid "Message substitutions"
+msgstr "Подстановки в сообщении"
+
+#: admin/settings.php:273
+msgid ""
+"IF THE FOLLOWING KEYWORDS ARE ALSO IN YOUR POST THEY WILL BE SUBSTITUTED"
+msgstr ""
+"ЕСЛИ ЭТИ ЖЕ КЛЮЧЕВЫЕ СЛОВА ПРИСУТСТВУЮТ В ВАШЕЙ ПУБЛИКАЦИИ, ОНИ БУДУТ "
+"ЗАМЕНЕНЫ"
+
+#: admin/settings.php:276
+msgid "the post's title<br />(<i>for per-post emails only</i>)"
+msgstr ""
+"название публикации<br />(<i>только для уведомлений об одиночных "
+"публикациях</i>)"
+
+#: admin/settings.php:277
+msgid ""
+"the excerpt or the entire post<br />(<i>based on the subscriber's "
+"preferences</i>)"
+msgstr ""
+"выдержка из публикации или целая публикация<br />(<i>в зависимости от "
+"настроек подписчика</i>)"
+
+#: admin/settings.php:278
+msgid ""
+"the excerpt of the post and the time it was posted<br />(<i>for digest "
+"emails only</i>)"
+msgstr ""
+"выдержка из материала и время, когда он был опубликован<br />(<i>только для "
+"обзорных уведомлений</i>)"
+
+#: admin/settings.php:279
+msgid "a list of post titles<br />(<i>for digest emails only</i>)"
+msgstr ""
+"список названий публикаций<br />(<i>только для обзорных уведомлений</i>)"
+
+#: admin/settings.php:280
+msgid ""
+"a list of post titles followed by links to the articles<br />(<i>for digest "
+"emails only</i>)"
+msgstr ""
+"список названий публикаций, за которыми приводятся ссылки на соответствующие "
+"материалы<br />(<i>только для обзорных уведомлений</i>)"
+
+#: admin/settings.php:281
+msgid ""
+"a reference style list of links at the end of the email with corresponding "
+"numbers in the content<br />(<i>for the full content plain text per-post "
+"email only</i>)"
+msgstr ""
+"стиль представления списка ссылок в конце письма с соответсвующим "
+"количеством позиций контента<br />(<i>только для писем, содержащих полный "
+"контент в виде  простого текста</i>)"
+
+#: admin/settings.php:282
+msgid "the post's permalink<br />(<i>for per-post emails only</i>)"
+msgstr ""
+"постоянная ссылка публикации<br />(<i>только для уведомлений об одиночных "
+"публикациях</i>)"
+
+#: admin/settings.php:283
+msgid "the post's permalink after conversion by TinyURL"
+msgstr "постоянная ссылка на публикацию после преобразования в TinyURL"
+
+#: admin/settings.php:284
+msgid "the date the post was made<br />(<i>for per-post emails only</i>)"
+msgstr ""
+"дата публикации материала<br />(<i>только для уведомлений об одиночных "
+"публикациях</i>)"
+
+#: admin/settings.php:285
+msgid "the time the post was made<br />(<i>for per-post emails only</i>)"
+msgstr ""
+"время публикации материала<br />(<i>только для уведомлений об одиночных "
+"публикациях</i>)"
+
+#: admin/settings.php:286
+msgid "the admin or post author's name"
+msgstr "имя администратора или автора публикации"
+
+#: admin/settings.php:287
+msgid "the admin or post author's email"
+msgstr "e-mail администратора или автора публикации"
+
+#: admin/settings.php:288
+msgid "the post author's name"
+msgstr "имя автора публикации"
+
+#: admin/settings.php:289
+msgid ""
+"the generated link to confirm a request<br />(<i>only used in the "
+"confirmation email template</i>)"
+msgstr ""
+"ссылка на подтверждение запроса<br />(<i>используется только в шаблоне "
+"письма для подтверждения</i>)"
+
+#: admin/settings.php:290
+msgid ""
+"Action performed by LINK in confirmation email<br />(<i>only used in the "
+"confirmation email template</i>)"
+msgstr ""
+"Действие (подписаться или отписаться), производимое ссылкой в письме "
+"подтверждения(<i>используется только в шаблоне письма для подтверждения</i>)"
+
+#: admin/settings.php:291
+msgid "the post's assigned categories"
+msgstr "Рубрики, к которым относится публикация"
+
+#: admin/settings.php:292
+msgid "the post's assigned Tags"
+msgstr "Метки публикации"
+
+#: admin/settings.php:293
+msgid ""
+"the number of posts included in the digest email<br />(<i>for digest emails "
+"only</i>)"
+msgstr ""
+"число публикаций, включённых в обзорное письмо<br />(<i>только для обзорных "
+"уведомлений</i>)"
+
+#: admin/settings.php:295
+msgid "Subscribe / Unsubscribe confirmation email"
+msgstr "Письмо подтверждения для Оформления/Отмены подписки"
+
+#: admin/settings.php:300
+msgid "Reminder email to Unconfirmed Subscribers"
+msgstr "Напоминающее письмо подписчикам, которые не выполнили подтверждение"
+
+#: admin/settings.php:312
+msgid "Compulsory Categories"
+msgstr "Предустановленные рубрики"
+
+#: admin/settings.php:314
+msgid ""
+"Compulsory categories will be checked by default for Registered Subscribers"
+msgstr ""
+"Предустановленные рубрики будут по умолчанию отмечены для зарегистрированных "
+"подписчиков"
+
+#: admin/settings.php:321
+msgid "Excluded Categories"
+msgstr "Исключённые рубрики"
+
+#: admin/settings.php:323
+msgid ""
+"Posts assigned to any Excluded Category do not generate notifications and "
+"are not included in digest notifications"
+msgstr ""
+"Публикации, относящиеся к исключённым рубрикам, не генерируют оповещений и "
+"не включаются в обзорные оповещения"
+
+#: admin/settings.php:327
+msgid "Allow registered users to subscribe to excluded categories?"
+msgstr ""
+"Разрешить зарегистрированным подписчикам подписываться на исключённые "
+"рубрики?"
+
+#: admin/settings.php:335
+msgid "Excluded Formats"
+msgstr "Исключённые форматы"
+
+#: admin/settings.php:337
+msgid ""
+"Posts assigned to any Excluded Format do not generate notifications and are "
+"not included in digest notifications"
+msgstr ""
+"Публикации исключённых форматов не генерируют уведомлений и не включаются в "
+"обзорные уведомления"
+
+#: admin/settings.php:345
+msgid "Auto-Subscribe"
+msgstr "Автоматическая подписка"
+
+#: admin/settings.php:347
+msgid "Subscribe new users registering with your blog"
+msgstr "Подписывать новых пользователей, зарегистрировавшихся на сайте"
+
+#: admin/settings.php:349
+msgid "Automatically"
+msgstr "Автоматически"
+
+#: admin/settings.php:351
+msgid "Display option on Registration Form"
+msgstr "Отображать возможность выбора в форме регистрации"
+
+#: admin/settings.php:354
+msgid "Auto-subscribe includes any excluded categories"
+msgstr "Автоматическая подписка включает все исключённые рубрики"
+
+#: admin/settings.php:359
+msgid "Registration Form option is checked by default"
+msgstr "В форме регистрации по умолчанию выбран вариант подписаться"
+
+#: admin/settings.php:364
+msgid "Auto-subscribe users to receive email as"
+msgstr "Автоматически подписывать пользователей получать письма в формате"
+
+#: admin/settings.php:366 admin/subscribers.php:283
+#: admin/your_subscriptions.php:112
+msgid "HTML - Full"
+msgstr "HTML – полный текст"
+
+#: admin/settings.php:368 admin/subscribers.php:284
+#: admin/your_subscriptions.php:114
+msgid "HTML - Excerpt"
+msgstr "HTML – выдержка"
+
+#: admin/settings.php:370 admin/subscribers.php:285
+#: admin/your_subscriptions.php:116
+msgid "Plain Text - Full"
+msgstr "Простым текстом – полностью"
+
+#: admin/settings.php:372 admin/subscribers.php:286
+#: admin/your_subscriptions.php:118
+msgid "Plain Text - Excerpt"
+msgstr "Простым текстом – выдержка"
+
+#: admin/settings.php:373
+msgid "Registered Users have the option to auto-subscribe to new categories"
+msgstr ""
+"Зарегистрированные пользователи имеют возможность выбрать автоматически "
+"подписываться на новые рубрики"
+
+#: admin/settings.php:379
+msgid "New categories are immediately excluded"
+msgstr "Новые рубрики автоматически исключаются"
+
+#: admin/settings.php:380
+msgid ""
+"Option for Registered Users to auto-subscribe to new categories is checked "
+"by default"
+msgstr ""
+"Для зарегистрированных подписчиков в форме выбора подписываться ли "
+"автоматически на новые рубрики по умолчанию выбран утвердительный вариант"
+
+#: admin/settings.php:387
+msgid "Display checkbox to allow subscriptions from the comment form"
+msgstr "Отображать флажок, позволяющий подписаться, в форме комментирования"
+
+#: admin/settings.php:389
+msgid "Before the Comment Submit button"
+msgstr "Перед кнопкой отправки комментария"
+
+#: admin/settings.php:391
+msgid "After the Comment Submit button"
+msgstr "После кнопки отправки комментария"
+
+#: admin/settings.php:394
+msgid "Comment form checkbox is checked by default"
+msgstr "Флажок в форме комментирования по умолчанию установлен"
+
+#: admin/settings.php:400
+msgid "Show one-click subscription on profile page"
+msgstr "Отображать на странице профиля «подписку в один щелчок»"
+
+#: admin/settings.php:415
+msgid "Set default Subscribe2 page as"
+msgstr "Установить страницу по умолчанию для Subscribe2 (данный плагин) по ID"
+
+#: admin/settings.php:417
+msgid "Select a page"
+msgstr "Выбрать страницу"
+
+#: admin/settings.php:422
+msgid "Set the number of Subscribers displayed per page"
+msgstr "Установить количество подписчиков, отображаемых на одной странице"
+
+#: admin/settings.php:432
+msgid "Show a link to your subscription page in \"meta\"?"
+msgstr "Отображать ссылку на Вашу страницу подписок на панели «Meta»?"
+
+#: admin/settings.php:436
+msgid "Show the Subscribe2 button on the Write toolbar?"
+msgstr ""
+"Отображать кнопку Subscribe2 на панели инструментов встроенного текстового "
+"редактора?"
+
+#: admin/settings.php:440
+msgid "Enable AJAX style subscription form?"
+msgstr "Включить форму подписки в AJAX-стиле?"
+
+#: admin/settings.php:444
+msgid "Enable Subscribe2 Widget?"
+msgstr "Включить виджет Subscribe2?"
+
+#: admin/settings.php:448
+msgid "Enable Subscribe2 Counter Widget?"
+msgstr "Включить виджет-счётчик для этого плагина (Subscribe2)?"
+
+#: admin/settings.php:452
+msgid "Disable email notifications is checked by default on authoring pages?"
+msgstr ""
+"По умолчанию на странице редактора публикаций выбрано отключить уведомления "
+"по e-mail?"
+
+#: admin/settings.php:460
+msgid "Barred Domains"
+msgstr "Запрещённые домены"
+
+#: admin/settings.php:462
+msgid ""
+"Enter domains to bar from public subscriptions: <br /> (Use a new line for "
+"each entry and omit the \"@\" symbol, for example email.com)"
+msgstr ""
+"Введите домены, с которых будет запрещена простая подписка: <br /> "
+"(Используйте отдельную страку для каждой записи и не указывайте знак «@»."
+"Например, email.com)"
+
+#: admin/settings.php:465
+msgid "Links"
+msgstr "Ссылки"
+
+#: admin/settings.php:466
+msgid "Plugin Site"
+msgstr "Сайт плагина"
+
+#: admin/settings.php:467 classes/class-s2-admin.php:180
+msgid "Translation Files"
+msgstr "Файлы перевода"
+
+#: admin/settings.php:468
+msgid "Plugin Forum"
+msgstr "Форум плагина"
+
+#: admin/settings.php:469
+msgid "Plugin Blog"
+msgstr "Блог плагина"
+
+#: admin/settings.php:470
+msgid "Make a donation via PayPal"
+msgstr "Окажите материальную помощь посредством PayPal"
+
+#: admin/settings.php:476
+msgid "Submit"
+msgstr "Выполнить"
+
+#: admin/settings.php:480
+msgid "Reset to Default Settings"
+msgstr "Сбросить на настройки по умолчанию"
+
+#: admin/settings.php:481
+msgid ""
+"Use this to reset all options to their defaults. This <strong><em>will not</"
+"em></strong> modify your list of subscribers."
+msgstr ""
+"Используйте эту кнопку, чтобы сбросить все настройки к значениям по "
+"умолчанию. Это <em>не затронет</em> Ваш список подписчиков."
+
+#: admin/settings.php:483
+msgid "RESET"
+msgstr "СБРОСИТЬ"
+
+#: admin/subscribers.php:31
+msgid "Address(es) subscribed!"
+msgstr "Подписка на адреса оформлена!"
+
+#: admin/subscribers.php:38
+msgid "Address(es) unsubscribed!"
+msgstr "Подписка на адрес(а) отменена!"
+
+#: admin/subscribers.php:42
+msgid ""
+"Some emails were not processed, the following are already Registered "
+"Subscribers"
+msgstr ""
+"Некоторые адреса e-mail не были обработаны. Следующие адреса относятся к уже "
+"зарегистрированным подписчикам."
+
+#: admin/subscribers.php:45
+msgid ""
+"Some emails were not processed, the following are already Public Subscribers"
+msgstr ""
+"Некоторые адреса e-mail не были обработаны. Нижеприведённые уже значились в "
+"списке простых подписчиков"
+
+#: admin/subscribers.php:48
+msgid "Some emails were not processed, the following were not in the database"
+msgstr ""
+"Некоторые адреса e-mail не были обработаны. Нижеприведённые отсутствовали в "
+"базе данных"
+
+#: admin/subscribers.php:59
+msgid "Address(es) deleted!"
+msgstr "Адрес(а) удалены!"
+
+#: admin/subscribers.php:67
+msgid "Delete failed! You cannot delete some or all of these users"
+msgstr ""
+"Удаление не удалось! Вы не можете удалить некоторых или всех из этих "
+"пользователей"
+
+#: admin/subscribers.php:70
+msgid "User(s) deleted! Any posts made by these users were assigned to you"
+msgstr ""
+"Пользователь(ли) удален! Доступны все публикации, сделанные этим(и) "
+"пользователем(и)"
+
+#: admin/subscribers.php:82
+msgid "Status changed!"
+msgstr "Состояние изменено!"
+
+#: admin/subscribers.php:85
+msgid "Reminder Email(s) Sent!"
+msgstr "Напоминающие письма отправлены!"
+
+#: admin/subscribers.php:88
+msgid "Registered Users Subscribed!"
+msgstr "Зарегистрированные пользователи подписаны!"
+
+#: admin/subscribers.php:91
+msgid "Registered Users Unsubscribed!"
+msgstr "Зарегистрированные пользователи отписаны!"
+
+#: admin/subscribers.php:94
+msgid "Format updated for Selected Registered Users!"
+msgstr "Формат для выбранных зарегистрированных пользователей обновлён!"
+
+#: admin/subscribers.php:97
+msgid "Digest Subscription updated for Selected Registered Users!"
+msgstr ""
+"Подписка на обзорные уведомления для выбранных зарегистрированных "
+"пользователей обновлена!"
+
+#: admin/subscribers.php:186 classes/class-s2-admin.php:63
+#: classes/class-s2-admin.php:580
+msgid "Public Subscribers"
+msgstr "Простые подписчики"
+
+#: admin/subscribers.php:186 classes/class-s2-admin.php:68
+#: classes/class-s2-admin.php:584
+msgid "Registered Subscribers"
+msgstr "Зарегистрированные подписчики"
+
+#: admin/subscribers.php:198 admin/subscribers.php:220
+msgid "Add/Remove Subscribers"
+msgstr "Добавить/Удалить подписчиков"
+
+#: admin/subscribers.php:199
+msgid "Enter addresses, one per line or comma-separated"
+msgstr "Введите адреса. По одному в строке или через запятую"
+
+#: admin/subscribers.php:202 admin/subscribers.php:274
+#: admin/your_subscriptions.php:263 classes/class-s2-frontend.php:67
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: admin/subscribers.php:203 admin/subscribers.php:275
+#: admin/your_subscriptions.php:242 classes/class-s2-frontend.php:66
+msgid "Unsubscribe"
+msgstr "Отписаться"
+
+#: admin/subscribers.php:208 admin/subscribers.php:227
+msgid "Current Subscribers"
+msgstr "Текущие подписчики"
+
+#: admin/subscribers.php:221
+msgid "Add Registered User"
+msgstr "Добавить зарегистрированного пользователя"
+
+#: admin/subscribers.php:236
+msgid "Filter"
+msgstr "Сделать выборку"
+
+#: admin/subscribers.php:240
+msgid "Send Reminder Email"
+msgstr "Отправить напоминающее письмо"
+
+#: admin/subscribers.php:247
+msgid "Save Emails to CSV File"
+msgstr ""
+"Сохранить адреса электронной почты в файл CSV (текстовое перечисление через "
+"запятую)"
+
+#: admin/subscribers.php:254
+msgid "Search"
+msgstr "Искать"
+
+#: admin/subscribers.php:261
+msgid "Bulk Management"
+msgstr "Массовое управление"
+
+#: admin/subscribers.php:271 admin/subscribers.php:293
+msgid ""
+"Preferences for Registered Users selected in the filter above can be changed "
+"using this section."
+msgstr ""
+"В этом разделе можно поменять настройки для зарегистрированных "
+"пользователей, входящих в выборку."
+
+#: admin/subscribers.php:272 admin/subscribers.php:294
+msgid "Consider User Privacy as changes cannot be undone"
+msgstr ""
+"Поскольку изменения отменить будет нельзя, имейте в виду, что настройки, ко "
+"всему прочему, являются личным делом пользователя."
+
+#: admin/subscribers.php:273
+msgid "Action to perform"
+msgstr "Действие, подлежащее выполнению"
+
+#: admin/subscribers.php:281
+msgid "Bulk Update Categories"
+msgstr "Массово обновить рубрики"
+
+#: admin/subscribers.php:282
+msgid "Send email as"
+msgstr "Отправлять письмо в формате"
+
+#: admin/subscribers.php:287
+msgid "Bulk Update Format"
+msgstr "Массово обновить формат"
+
+#: admin/subscribers.php:295
+msgid "Subscribe Selected Users to receive a periodic digest notification"
+msgstr ""
+"Подписать выбранных пользователей получать переодические обзорные уведомления"
+
+#: admin/subscribers.php:300
+msgid "Bulk Update Digest Subscription"
+msgstr "Массово обновить подписку на обзорные уведомления"
+
+#: admin/subscribers.php:314
+msgid "You are about to delete user account(s). Are you sure?"
+msgstr "Вы собираетесь удалить учетные данные пользователя. Вы уверены?"
+
+#: admin/your_subscriptions.php:90
+msgid "Subscription preferences updated."
+msgstr "Настройки подписки обновлены."
+
+#: admin/your_subscriptions.php:98
+msgid "Notification Settings"
+msgstr "Настройки уведомлений"
+
+#: admin/your_subscriptions.php:101
+msgid "Editing Subscribe2 preferences for user"
+msgstr "Редактирование настроек данного плагина (Subscribe2) для пользователя"
+
+#: admin/your_subscriptions.php:110
+msgid "Receive email as"
+msgstr "Получать письма в формате"
+
+#: admin/your_subscriptions.php:121
+msgid "Automatically subscribe me to newly created categories"
+msgstr "Автоматически подписывать меня на новые рубрики"
+
+#: admin/your_subscriptions.php:131
+msgid "One Click Subscription / Unsubscription"
+msgstr "Подписка/Отписка «в один клик»"
+
+#: admin/your_subscriptions.php:132
+msgid "Subscribe to All"
+msgstr "Подписаться на всё"
+
+#: admin/your_subscriptions.php:133
+msgid "Unsubscribe from All"
+msgstr "Отписаться от всего"
+
+#: admin/your_subscriptions.php:143
+msgid "Unsubscribe me from this blog"
+msgstr "Отписать меня от этого сайта"
+
+#: admin/your_subscriptions.php:147
+msgid "Subscribe to all categories"
+msgstr "Подписаться на все рубрики"
+
+#: admin/your_subscriptions.php:149
+msgid "Subscribed Categories on"
+msgstr "Рубрики, на которые оформлена подписка, на"
+
+#: admin/your_subscriptions.php:151
+msgid "Subscribed Categories"
+msgstr "Рубрики, на которые оформлена подписка"
+
+#: admin/your_subscriptions.php:158
+msgid "Receive periodic summaries of new posts?"
+msgstr "Получать периодические обзоры новых публикаций?"
+
+#: admin/your_subscriptions.php:174
+msgid "Do not send notifications for post made by these authors"
+msgstr "Не отправлять уведомления о публикациях, сделанных данными авторами"
+
+#: admin/your_subscriptions.php:180
+msgid "Update Preferences"
+msgstr "Обновить настройки"
+
+#: admin/your_subscriptions.php:231
+msgid "Subscribed Blogs"
+msgstr "Блоги, на которые оформлена подписка"
+
+#: admin/your_subscriptions.php:236 admin/your_subscriptions.php:257
+msgid "Viewing Settings Now"
+msgstr "Просматриваем настройки"
+
+#: admin/your_subscriptions.php:240 admin/your_subscriptions.php:261
+msgid "View Settings"
+msgstr "Посмотреть настройки"
+
+#: admin/your_subscriptions.php:252
+msgid "Subscribe to new blogs"
+msgstr "Подписаться на новые блоги"
+
+#. Plugin Name of the plugin/theme
+#: classes/class-s2-admin.php:8 include/widget.php:16
+msgid "Subscribe2"
+msgstr "Подписка"
+
+#: classes/class-s2-admin.php:10
+msgid "Your Subscriptions"
+msgstr "Ваши подписки"
+
+#: classes/class-s2-admin.php:15
+msgid "Readygraph App"
+msgstr "Магазин  Readygraph "
+
+#: classes/class-s2-admin.php:18
+msgid "Subscribers"
+msgstr "Подписчики"
+
+#: classes/class-s2-admin.php:22 classes/class-s2-admin.php:179
+msgid "Settings"
+msgstr "Настройки"
+
+#: classes/class-s2-admin.php:28
+msgid "Send Email"
+msgstr "Отправить письмо"
+
+#: classes/class-s2-admin.php:42 classes/class-s2-admin.php:48
+#: classes/class-s2-admin.php:58 classes/class-s2-admin.php:79
+#: classes/class-s2-admin.php:124
+msgid "Overview"
+msgstr "Обзор/просмотр"
+
+#: classes/class-s2-admin.php:43
+msgid ""
+"From this page you can opt in or out of receiving a periodical digest style "
+"email of blog posts."
+msgstr ""
+"На этой странице вы можете выбрать или отключить периодическое получение  "
+"обзорных е-meil с публикациями блога."
+
+#: classes/class-s2-admin.php:49
+msgid ""
+"From this page you can control your subscription preferences. Choose the "
+"email format you wish to receive, which categories you would like to receive "
+"notification for and depending on the site settings which authors you would "
+"like to read."
+msgstr ""
+"На этой странице вы можете контролировать  настройки подписки. Выберите "
+"формат электронной почты, который вы хотите получать, рубрики, о  которых вы "
+"хотели бы получить уведомлениех, и, в зависимости от настроек сайта, "
+"авторов, чьи публикации вы хотели бы читать."
+
+#: classes/class-s2-admin.php:59
+msgid "From this page you can manage your subscribers."
+msgstr "На этой странице вы можете управлять вашими подписчиками"
+
+#: classes/class-s2-admin.php:64
+msgid ""
+"Public Subscribers are subscribers who have used the plugin form and only "
+"provided their email address."
+msgstr ""
+"Простыми подписчиками являются подписчики, которые воспользовались формой "
+"подписки и подтвердили  адреса е-mail."
+
+#: classes/class-s2-admin.php:64
+msgid ""
+"On this page public subscribers can be viewed, searched, deleted and also "
+"toggled between Confirmed and Unconfirmed status."
+msgstr ""
+"Здесь можно просматривать, искать, удалять подписчиков или перемещать их "
+"мжду подтвержденными и неподтвержденными группами."
+
+#: classes/class-s2-admin.php:69
+msgid ""
+"Registered Subscribers are subscribers who have registered in WordPress and "
+"have a username and password."
+msgstr ""
+"Зарегистрированные подписчики - те, кто зарегистрировался на  WordPress  и "
+"имеют имя пользователя и пароль."
+
+#: classes/class-s2-admin.php:70
+msgid ""
+"Registered Subscribers have greater personal control over their "
+"subscription. They can change the format of the email and also select which "
+"categories and authors they want to receive notifications about."
+msgstr ""
+"У зарегистрированных подписчиков больше возможностей управлять настройками "
+"своей подписки. Они могут изменять формат присылаемых уведомлений и "
+"выбирать, обновления каких рубрик или авторов они хотят получать."
+
+#: classes/class-s2-admin.php:71
+msgid ""
+"On this page registered subscribers can be viewed and searched. User "
+"accounts can be deleted from here with any posts created by those users "
+"being assigned to the currently logged in user. Bulk changes can be applied "
+"to all user settings changing their subscription email format and categories."
+msgstr ""
+"На этой странице  можно находить и просматривать зарегистрированных "
+"подписчиков. Можно удалять учетные данные пользователей вместе со всеми "
+"постами, написанными этими пользователями. Массовые изменения могут быть "
+"применены ко всем настройкам пользователя,  изменив формат их подписки  и "
+"рубрики."
+
+#: classes/class-s2-admin.php:80
+msgid "From this page you can adjust the Settings for Subscribe2."
+msgstr "На этой странице можно добавить настройки плагина Subscribe2."
+
+#: classes/class-s2-admin.php:85
+msgid ""
+"This section allows you to specify settings that apply to the emails "
+"generated by the site."
+msgstr "Этот раздел позволяет установить настройки писем, генерируемых сайтом."
+
+#: classes/class-s2-admin.php:86
+msgid ""
+"Emails can be sent to individual subscribers by setting the number of "
+"recipients per email to 1. A setting greater than one will group recipients "
+"together and make use of the BCC emails header. A setting of 0 sends a "
+"single email with all subscribers in one large BCC group. A setting of 1 "
+"looks less like spam email to filters but takes longer to process."
+msgstr ""
+"Сообщения могут быть отправлены индивидуальным подписчикам с помощью "
+"установки количества получателей на 1 для каждого сообщения. Установка "
+"значения больше единицы сгруппирует получателей и будет  использован "
+"заголовок сообщения \"скрытая копия\". Установка значения в позицию \"0\"  "
+"отправляет одно и то же сообщение всем подписчикам одной большой группой "
+"скрытых копий. Установка значения \"1\" выглядит менее похожей на спам-"
+"рассылку, но требует больше времени."
+
+#: classes/class-s2-admin.php:87
+msgid ""
+"This section is also where the sender of the email on this page is chosen. "
+"You can choose Post Author or your Blogname but it is recommended to create "
+"a user account with an email address that really exists and shares the same "
+"domain name as your site (the bit after the @ should be the same as your "
+"sites web address) and then use this account."
+msgstr ""
+"В этом разделе также можно выбрать отправителя письма. Вы можете выбрать "
+"автора публикации или  название блога, но рекомендуется создать учетную "
+"запись пользователя с действительным адресом электронной почты, совпадающим "
+"с адресом вашего сайта."
+
+#: classes/class-s2-admin.php:88
+msgid ""
+"This page also configures the frequency of emails. This can be at the time "
+"new posts are made (per post) or periodically with an excerpt of each post "
+"made (digest). Additionally the post types (pages, private, password "
+"protected) can also be configured here."
+msgstr ""
+"Эта страница регулирует частоту отправки писем. Это может быть уведомление о "
+"каждой новой публикации или периодическое обзорное уведомление с выдержками "
+"из всех новых публикаций. Дополнительно здесь  можно установить и типы "
+"публикаций для подписки ( страницы. личные записи, защищенный паролем "
+"контент)"
+
+#: classes/class-s2-admin.php:93
+msgid ""
+"This section allows you to customise the content of your notification emails."
+msgstr "Этот раздел позволяет управлять сождержанием уведомлений."
+
+#: classes/class-s2-admin.php:94
+msgid ""
+"There are special {KEYWORDS} that are used by Subscribe2 to place content "
+"into the final email. The template also accepts regular text and HTML as "
+"desired in the final emails."
+msgstr ""
+"Здесь специальные слова {KEYWORDS}, которые используются плагином \"Подписка"
+"\" для размещения контента в итоговм письме. Шаблон также поддерживает  "
+"простой текст и формат HTML."
+
+#: classes/class-s2-admin.php:95
+msgid ""
+"The {KEYWORDS} are listed on the right of the templates, note that some are "
+"for per post emails only and some are for digest emails only. Make sure the "
+"correct keywords are used based upon the Email Settings."
+msgstr ""
+"Ключевые слова {KEYWORDS} перечисленные с правой стороны шаблона,показывают, "
+"что некоторые из них - только для  уведомлений о, одиночных публикациях, а "
+"другие - только  для писем с обзорами. Убедитесь, что вы используете "
+"правильные ключевые слова, основанные на настройках  e-mail."
+
+#: classes/class-s2-admin.php:100
+msgid ""
+"This section allows settings that apply to Registered Subscribers to be "
+"configured."
+msgstr ""
+"Этот раздел позволяет управлять настройками подписки зарегистрированным "
+"пользователям. "
+
+#: classes/class-s2-admin.php:101
+msgid ""
+"Categories can be made compulsory so emails are always sent for posts in "
+"these categories. They can also be excludes so that emails are not "
+"generated. Excluded categories take precedence over Compulsory categories."
+msgstr ""
+"Рубрики могут быть предустановленными, в таком случае уведомления посылаются "
+"для  постов из этих рубрик. Они также могут быть исключены, чтобы "
+"уведомления не генерировались. Исключенные рубрики имеют приоритет над "
+"обязательными рубриками."
+
+#: classes/class-s2-admin.php:102
+msgid ""
+"A set of default settings for new users can also be specified using the Auto "
+"Subscribe section. Settings specified here will be applied to any newly "
+"created user accounts while Subscribe2 is activated."
+msgstr ""
+"Настройки по умолчанию для новых пользователей можно задать с помощью "
+"раздела автоподписки. Эти настройки будут применяться для каждого вновь "
+"подписавшегося пользователя сразу после активации подписки."
+
+#: classes/class-s2-admin.php:107
+msgid ""
+"This section allows you to enable several aspect of the plugin such as "
+"Widgets and editor buttons."
+msgstr ""
+"Этот раздел позволяет включить дополнительные возможности плагина, такеи как "
+"виджеты или кнопки редактирования."
+
+#: classes/class-s2-admin.php:108
+msgid ""
+"AJAX mode can be enabled that is intended to work with the shortcode link "
+"parameter so that a dialog opens in the centre of the browser rather then "
+"using the regular form."
+msgstr ""
+"Можно включить режим AJAX, предназначенный для работы с параметрами "
+"шорткодов, так чтобы диалоговое окно открывалось в центре страницы, а не в "
+"обычном виде."
+
+#: classes/class-s2-admin.php:109
+msgid ""
+"The email over ride check box can be set to be automatically checked for "
+"every new post and page from here to, this may be useful if you will only "
+"want to send very occasional notifications for specific posts. You can then "
+"uncheck this box just before you publish your content."
+msgstr ""
+
+#: classes/class-s2-admin.php:114
+msgid ""
+"This section contains a place to bar specified domains from becoming Public "
+"Subscribers and links to help and support pages."
+msgstr ""
+"Этот раздел содержит  запрещенные для подписки домены и ссылки на страницы "
+"помощи и техподдержку."
+
+#: classes/class-s2-admin.php:115
+msgid ""
+"In the paid Subscribe2 HTML version there is also a place here to enter a "
+"license code so that updates can be accessed automatically."
+msgstr ""
+"В платной HTML версии плагина Subscribe2  есть место для ввода ключа, чтобы "
+"получать обновления автоматически."
+
+#: classes/class-s2-admin.php:125
+msgid ""
+"From this page you can send emails to the recipients in the group selected "
+"in the drop down."
+msgstr ""
+"С этой страницы вы можете отправить электронное письмо   получателям из "
+"группы, выбранной в выпадающем списке."
+
+#: classes/class-s2-admin.php:126
+msgid ""
+"<strong>Preview</strong> will send a preview of the email to the currently "
+"logged in user. <strong>Send</strong> will send the email to the recipient "
+"list."
+msgstr ""
+"<strong>Предпросмотр</strong> Сообщение для предварительного просмотра будет "
+"отправлено на адрес текущего пользователя системы <strong>Send</strong> will "
+"send the email to the recipient list."
+
+#: classes/class-s2-admin.php:167
+msgid "Email is empty!"
+msgstr "E-mail пустой!"
+
+#: classes/class-s2-admin.php:168
+msgid "Password is empty!"
+msgstr "Пароль пустой!"
+
+#: classes/class-s2-admin.php:169
+msgid "Site URL is empty!"
+msgstr "URL сайта пустой!"
+
+#: classes/class-s2-admin.php:170
+msgid "Password is not matching!"
+msgstr "Пароль не соответствует!"
+
+#: classes/class-s2-admin.php:181
+msgid "Donate"
+msgstr "Оказать материальную помощь"
+
+#: classes/class-s2-admin.php:289 classes/class-s2-admin.php:290
+msgid "Subscribe2 Notification Override"
+msgstr ""
+"Установка настроек уведомления по e-mail, отличных от заданных плагином "
+"Subscribe2"
+
+#: classes/class-s2-admin.php:300
+msgid ""
+"Check here to disable sending of an email notification for this post/page"
+msgstr ""
+"Установите этот флажок, чтобы отключить отправку уведомлений для данной "
+"публикации/страницы"
+
+#: classes/class-s2-admin.php:372
+msgctxt "Comma Separated Column Header names for CSV Export"
+msgid "User Email,User Type,User Name,Confirm Date,IP"
+msgstr ""
+"E-mail пользователя, тип пользователя, имя пользователя, данные  "
+"подтверждения, IP адрес"
+
+#: classes/class-s2-admin.php:397
+msgid "Registered User"
+msgstr "Зарегистрированный пользователь"
+
+#: classes/class-s2-admin.php:402
+msgid "Confirmed Public Subscriber"
+msgstr "Подтверждённый простой подписчик"
+
+#: classes/class-s2-admin.php:404
+msgid "Unconfirmed Public Subscriber"
+msgstr "Неподтверждённый простой подписчик"
+
+#: classes/class-s2-admin.php:430 classes/class-s2-admin.php:487
+#: classes/class-s2-admin.php:527
+msgid "Select / Unselect All"
+msgstr "Выбрать всё/ничего"
+
+#: classes/class-s2-admin.php:579
+msgid "All Users and Subscribers"
+msgstr "Все пользователи и подписчики"
+
+#: classes/class-s2-admin.php:581
+msgid "Confirmed"
+msgstr "Подтверждённые"
+
+#: classes/class-s2-admin.php:582
+msgid "Unconfirmed"
+msgstr "Неподтверждённые"
+
+#: classes/class-s2-admin.php:583
+msgid "All Registered Users"
+msgstr "Все зарегистрированные пользователи"
+
+#: classes/class-s2-admin.php:679
+msgid "Post Author"
+msgstr "Автор публикации"
+
+#: classes/class-s2-admin.php:703
+msgid ""
+"The WordPress cron functions may be disabled on this server. Digest "
+"notifications may not work."
+msgstr ""
+"На этом сервере можгут быть отключены функции WordPress cron. Обзорные "
+"уведомления могут не работать."
+
+#: classes/class-s2-admin.php:708
+msgid "For each Post"
+msgstr "Для каждой публикации"
+
+#: classes/class-s2-admin.php:725
+msgid "Current UTC time is"
+msgstr "Текущее время UTC"
+
+#: classes/class-s2-admin.php:727
+msgid "Current blog time is"
+msgstr "Текущее время сайта"
+
+#: classes/class-s2-admin.php:729
+msgid "Next email notification will be sent when your blog time is after"
+msgstr ""
+"Ближайшее уведомление по e-mail будет отправлено, когда время сайта будет "
+"больше"
+
+#: classes/class-s2-admin.php:751
+msgid "Attempt to resend the last Digest Notification email"
+msgstr "Попытаться повторно послать письмо с последним обзорным обновлением"
+
+#: classes/class-s2-admin.php:752
+msgid "Resend Digest"
+msgstr "Послать обзор повторно"
+
+#: classes/class-s2-admin.php:991
+msgid "Email subscription"
+msgstr "Подписка по e-mail"
+
+#: classes/class-s2-admin.php:993
+msgid "Subscribe / Unsubscribe"
+msgstr "Подписаться/Отписаться"
+
+#: classes/class-s2-admin.php:994
+msgid "Receive notifications"
+msgstr "Получать уведомления"
+
+#: classes/class-s2-admin.php:995
+msgid ""
+"Check if you want to receive email notification when new posts are published"
+msgstr ""
+"Поставьте флажок, если желаете получать уведомление при публикации на сайте "
+"новых материалов"
+
+#: classes/class-s2-core.php:597
+msgid "Plain Text Excerpt Preview"
+msgstr "Просмотр фрагмента в формате простого текста"
+
+#: classes/class-s2-core.php:599
+msgid "Plain Text Full Preview"
+msgstr "Просмотр полной публикации в формате простого текста"
+
+#: classes/class-s2-core.php:601
+msgid "HTML Excerpt Preview"
+msgstr "Просмотр фрагмента в формате HTML"
+
+#: classes/class-s2-core.php:603
+msgid "HTML Full Preview"
+msgstr "Просмотр полной публикации в формате HTML"
+
+#: classes/class-s2-core.php:639
+msgid "Like"
+msgstr "Нравится"
+
+#: classes/class-s2-core.php:642
+msgid "Tweet"
+msgstr "Tweet"
+
+#: classes/class-s2-core.php:645
+msgid "Google+"
+msgstr "Google+"
+
+#: classes/class-s2-core.php:1167
+msgid "Check here to Subscribe to email notifications for new posts"
+msgstr ""
+"Чтобы подписаться на e-mail уведомления о новых публикациях, отметьте этот "
+"флажок"
+
+#: classes/class-s2-core.php:1173
+msgid ""
+"By registering with this blog you are also agreeing to receive email "
+"notifications for new posts but you can unsubscribe at anytime"
+msgstr ""
+"Регистрируясь на этом сайте, Вы также соглашаетесь получать уведомления по "
+"электронной почте о новых публикациях, но в любое время можете от них "
+"отписаться"
+
+#: classes/class-s2-core.php:1199
+msgid "Check here to Subscribe to notifications for new posts"
+msgstr ""
+"Поставьте этот флажок, чтобы подписаться на получение уведомлений о новых "
+"публикациях"
+
+#: classes/class-s2-core.php:1298
+msgid "Weekly"
+msgstr "Раз в неделю"
+
+#: classes/class-s2-core.php:1451 classes/class-s2-core.php:1452
+msgid "Author"
+msgstr "Автор"
+
+#: classes/class-s2-core.php:1458
+msgid "Posted on"
+msgstr "Опубликовано в"
+
+#: classes/class-s2-core.php:1476 classes/class-s2-core.php:1477
+msgid "Posted in"
+msgstr "Опубликовано в рубрике"
+
+#: classes/class-s2-core.php:1482 classes/class-s2-core.php:1483
+msgid "Tagged as"
+msgstr "Помечено как"
+
+#: classes/class-s2-core.php:1556
+msgid "Digest Email"
+msgstr "Обзорный E-mail"
+
+#: classes/class-s2-core.php:1569
+msgid "Digest Preview"
+msgstr "Просмотр обзора"
+
+#: classes/class-s2-frontend.php:7
+msgid "To manage your subscription options please <a href=\"%1$s\">login.</a>"
+msgstr ""
+"Чтобы управлять параметрами своей подписки, пожалуйста, <a href=\"%1$s"
+"\">login.</a>"
+
+#: classes/class-s2-frontend.php:9
+msgid ""
+"You may manage your subscription options from your <a href=\"%1$s\">profile</"
+"a>"
+msgstr ""
+"Вы можете управлять настройками подписки из своего <a href=\"%1$s\">профиля</"
+"a>"
+
+#: classes/class-s2-frontend.php:15
+msgid ""
+"<a href=\"%1$s\">Subscribe</a> to email notifications when this blog posts "
+"new content."
+msgstr ""
+"<a href=\"%1$s\">Подписаться</a> на уведомление по е-мейл о появлении новых "
+"публикаций."
+
+#: classes/class-s2-frontend.php:19
+msgid "A confirmation message is on its way!"
+msgstr ""
+"На указанный адрес электронной почты отправлено письмо со ссылкой для "
+"подтверждения запрошенного действия."
+
+#: classes/class-s2-frontend.php:21
+msgid "That email address is already subscribed."
+msgstr "Этот адрес e-mail уже есть в списке подписчиков."
+
+#: classes/class-s2-frontend.php:23
+msgid "That email address is not subscribed."
+msgstr "Адрес e-mail отсутствует в списке подписчиков."
+
+#: classes/class-s2-frontend.php:25
+msgid "Sorry, but that does not look like an email address to me."
+msgstr "К сожалению, введённые данные не являются правильным e-mail адресом."
+
+#: classes/class-s2-frontend.php:27
+msgid ""
+"Sorry, email addresses at that domain are currently barred due to spam, "
+"please use an alternative email address."
+msgstr ""
+"К сожалению, подписка на адреса с данного домена запрещена с целью защиты от "
+"спама. Пожалуйста, воспользуйтесь альтернативным адресом."
+
+#: classes/class-s2-frontend.php:29
+msgid ""
+"Sorry, there seems to be an error on the server. Please try again later."
+msgstr ""
+"К сожелению. возникла ошибка на сервере. Попробуйте повторить попытку позже."
+
+#: classes/class-s2-frontend.php:32
+msgid "No such email address is registered."
+msgstr "Такой e-mail адрес не зарегистрирован."
+
+#: classes/class-s2-frontend.php:34
+msgid "You have successfully subscribed!"
+msgstr "вы успешно подписаны!"
+
+#: classes/class-s2-frontend.php:36
+msgid "You have successfully unsubscribed."
+msgstr "Вы успешно отписались от обновлений!"
+
+#: classes/class-s2-frontend.php:38
+msgid "subscribe"
+msgstr "подписаться"
+
+#: classes/class-s2-frontend.php:40
+msgid "unsubscribe"
+msgstr "отписаться"
+
+#: classes/class-s2-frontend.php:97
+msgid "Enter email address..."
+msgstr "Введите адрес e-mail..."
+
+#: classes/class-s2-frontend.php:124 classes/class-s2-frontend.php:126
+msgid "Your email:"
+msgstr "Ваш E-mail:"
+
+#: classes/class-s2-frontend.php:174
+msgid "Slow down, you move too fast."
+msgstr "Медленее, вы двигаетесь слишком быстро."
+
+#: classes/class-s2-frontend.php:273
+msgid "Subscription Confirmation"
+msgstr "Подтверждение подписки"
+
+#: classes/class-s2-frontend.php:275
+msgid "Unsubscription Confirmation"
+msgstr "Подтверждение отмены подписки"
+
+#: classes/class-s2-frontend.php:314
+msgid "New Subscription"
+msgstr "Новая подписка"
+
+#: classes/class-s2-frontend.php:316
+msgid "subscribed to email notifications!"
+msgstr "подписан на уведомления по e-mail!"
+
+#: classes/class-s2-frontend.php:338
+msgid "New Unsubscription"
+msgstr "Новая отмена подписки"
+
+#: classes/class-s2-frontend.php:340
+msgid "unsubscribed from email notifications!"
+msgstr "отписан от получения уведомлений по e-mail!"
+
+#: classes/class-s2-frontend.php:367
+msgid "[Un]Subscribe to Posts"
+msgstr "Подписаться на публикации/отписаться от публикаций"
+
+#: classes/class-s2-frontend.php:402 classes/class-s2-frontend.php:404
+msgid "Subscribe to this blog"
+msgstr "Подписаться на этот сайт"
+
+#: classes/class-s2-list-table.php:57 classes/class-s2-list-table.php:62
+#: classes/class-s2-list-table.php:68
+msgctxt "column name"
+msgid "Email"
+msgstr "E-mail"
+
+#: classes/class-s2-list-table.php:69
+msgctxt "column name"
+msgid "Date"
+msgstr "Имя столбца"
+
+#: classes/class-s2-list-table.php:95 classes/class-s2-list-table.php:100
+msgid "Delete"
+msgstr "Удалить"
+
+#: classes/class-s2-list-table.php:101
+msgid "Toggle"
+msgstr "Поменять статус"
+
+#: classes/class-s2-list-table.php:119
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 пункт"
+msgstr[1] ""
+msgstr[2] ""
+
+#: classes/class-s2-list-table.php:157
+msgid "Go to the first page"
+msgstr "К первой странице"
+
+#: classes/class-s2-list-table.php:164
+msgid "Go to the previous page"
+msgstr "К предыдущей странице"
+
+#: classes/class-s2-list-table.php:173
+msgid "Current page"
+msgstr "Текущая страница"
+
+#: classes/class-s2-list-table.php:180
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s из %2$s"
+
+#: classes/class-s2-list-table.php:184
+msgid "Go to the next page"
+msgstr "К следующей странице"
+
+#: classes/class-s2-list-table.php:191
+msgid "Go to the last page"
+msgstr "К псоледней странице"
+
+#: include/counterwidget.php:7
+msgid "Subscriber Counter widget for Subscribe2"
+msgstr "Виджет-счётчик числа посетителей для этого плагина (Subscribe2)"
+
+#: include/counterwidget.php:9
+msgid "Subscribe2 Counter"
+msgstr "Счётчик Subscribe2"
+
+#: include/counterwidget.php:73
+msgid "Widget Title"
+msgstr "Название виджета"
+
+#: include/counterwidget.php:78
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: include/counterwidget.php:80
+msgid "Body"
+msgstr "Тело"
+
+#: include/counterwidget.php:82
+msgid "Text"
+msgstr "Текст"
+
+#: include/counterwidget.php:87
+msgid "Width, Height and Font Size"
+msgstr "Ширина, высота и размер текста"
+
+#: include/counterwidget.php:89
+msgid "Width"
+msgstr "Ширина"
+
+#: include/counterwidget.php:91
+msgid "Height"
+msgstr "Высота"
+
+#: include/counterwidget.php:93
+msgid "Font"
+msgstr "Шрифт"
+
+#: include/options.php:138
+msgid ""
+"{BLOGNAME} has posted a new item, '{TITLE}'\n"
+"\n"
+"{POST}\n"
+"\n"
+"You may view the latest post at\n"
+"{PERMALINK}\n"
+"\n"
+"You received this e-mail because you asked to be notified when new updates "
+"are posted.\n"
+"Best regards,\n"
+"{MYNAME}\n"
+"{EMAIL}"
+msgstr ""
+"Здравствуйте.\n"
+"\n"
+"На сайте «{BLOGNAME}» опубликован новый материал «{TITLE}»:\n"
+"\n"
+"{POST}\n"
+"\n"
+"Перейти к нему Вы можете по следующей ссылке: {PERMALINK}\n"
+"\n"
+"Это письмо отправлено Вам, поскольку Вы оформили подписку на уведомления о "
+"новых публикациях сайта «{BLOGNAME}».\n"
+"\n"
+"С уважением,\n"
+"{MYNAME}\n"
+"{EMAIL}"
+
+#: include/options.php:146
+msgid ""
+"{BLOGNAME} has received a request to {ACTION} for this email address. To "
+"complete your request please click on the link below:\n"
+"\n"
+"{LINK}\n"
+"\n"
+"If you did not request this, please feel free to disregard this notice!\n"
+"\n"
+"Thank you,\n"
+"{MYNAME}."
+msgstr ""
+"Здравствуйте.\n"
+"\n"
+"Сайтом «{BLOGNAME}» для Вашего почтового адреса получен запрос на управление "
+"подпиской на новые материалы сайта. Запрошенное действие: {ACTION}.\n"
+"\n"
+"Чтобы выполнить запрошенное действие, пройдите, пожалуйста, по данной "
+"ссылке: {LINK}\n"
+"\n"
+"Если Вы такого не запрашивали, просто проигнорируйте это письмо.\n"
+"\n"
+"Спасибо,\n"
+"{MYNAME}."
+
+#: include/options.php:150
+msgid "Please confirm your request"
+msgstr "Пожалуйста, подтвердите Ваш запрос"
+
+#: include/options.php:154
+msgid ""
+"This email address was subscribed for notifications at {BLOGNAME} "
+"({BLOGLINK}) but the subscription remains incomplete.\n"
+"\n"
+"If you wish to complete your subscription please click on the link below:\n"
+"\n"
+"{LINK}\n"
+"\n"
+"If you do not wish to complete your subscription please ignore this email "
+"and your address will be removed from our database.\n"
+"\n"
+"Regards,\n"
+"{MYNAME}"
+msgstr ""
+"Здравствуйте.\n"
+"\n"
+"На сайте «{BLOGNAME}» ({BLOGLINK}) для Вашего почтового адреса было "
+"запрошено получение уведомлений о новых материалах сайта, но этот запрос до "
+"сих пор не был подтверждён.\n"
+"\n"
+"Чтобы завершить оформление своей подписки, проследуйте, пожалуйста, по "
+"данной ссылке: {LINK}\n"
+"\n"
+"Если Вы не хотите оформлять подписку, просто проигнорируйте это письмо и Ваш "
+"адрес будет удалён из нашей базы данных.\n"
+"\n"
+"С уважением,\n"
+"{MYNAME}"
+
+#: include/options.php:158
+msgid "Subscription Reminder"
+msgstr "Напоминание о подписке"
+
+#: include/widget.php:7
+msgid "Sidebar Widget for Subscribe2"
+msgstr "Виджет для Subscribe2 – плагина подписок по электронной почте"
+
+#: include/widget.php:9
+msgid "Subscribe2 Widget"
+msgstr "Виджет Subscribe2"
+
+#: include/widget.php:30
+msgid "(Un)Subscribe to Posts"
+msgstr "Подписаться (отписаться от) на публикации "
+
+#: include/widget.php:114
+msgid "Title"
+msgstr "Название"
+
+#: include/widget.php:116
+msgid "Div class name"
+msgstr "Название класса div"
+
+#: include/widget.php:118
+msgid "Pre-Content"
+msgstr "Предваряющее содержимое"
+
+#: include/widget.php:120
+msgid "Post-Content"
+msgstr "Содержимое, идущее после"
+
+#: include/widget.php:122
+msgid "Text Box Size"
+msgstr "Ширина окошка ввода e-mail"
+
+#: include/widget.php:124
+msgid "Display options"
+msgstr "Параметры отображения"
+
+#: include/widget.php:125
+msgid "Show complete form"
+msgstr "Показывать всё"
+
+#: include/widget.php:126
+msgid "Hide Subscribe button"
+msgstr "Не показывать кнопку подписки"
+
+#: include/widget.php:127
+msgid "Hide Unsubscribe button"
+msgstr "Не показывать кнопку отмены подписки"
+
+#: include/widget.php:129
+msgid "Show as link"
+msgstr "Показывать как ссылку"
+
+#: include/widget.php:132
+msgid "Post form content to page"
+msgstr "Выводить результаты на страницу"
+
+#: include/widget.php:134
+msgid "Use Subscribe2 Default"
+msgstr "Использовать параметры по умолчанию"
+
+#: include/widget.php:137
+msgid "Use Home Page"
+msgstr "Использовать главную страницу"
+
+#: include/widget.php:140
+msgid "Use Referring Page"
+msgstr "Использовать упоминающуюся страницу "
+
+#: include/widget.php:143
+msgid "Disable JavaScript"
+msgstr "Не использовать Ява-скрипт"
+
+#: include/widget.php:146
+msgid "Disable Anti-spam measures"
+msgstr "Не использовать средства анти-спама"
+
+#: include/widget.php:149
+msgid "Disable wrapping of form buttons"
+msgstr "Не использовать обложку для  кнопок формы"
+
+#: subscribe2.php:37
+msgid "I'm just a plugin, please don't call me directly"
+msgstr "Это только плагин, пожалуйста, не звоните мне напрямую."
+
+#: subscribe2.php:40
+msgid ""
+"This version of Subscribe2 requires WordPress 3.3 or greater. Please update "
+"%1$s or use an older version of %2$s."
+msgstr ""
+"Эта версия плагина требует WordPress версии 3.3 или выше. Пожалуйста, "
+"обновите %1$s или используйте более старую версию %2$s."
+
+#: subscribe2.php:52
+msgid ""
+"Subscribe2 cannot be activated as a network plugin. Please activate it on a "
+"site level"
+msgstr ""
+"Плагин \"Подписка\" не может быть активирован в качестве сетевого плагина. "
+"Пожалуйста, активируйте его только на площадке сайта."
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://subscribe2.wordpress.com"
+msgstr "http://subscribe2.wordpress.com"
+
+#. Description of the plugin/theme
+msgid "Notifies an email list when new entries are posted."
+msgstr "Сообщать список адресов e-mail при публикации новых записей."
+
+#. Author of the plugin/theme
+msgid "Matthew Robinson"
+msgstr "Мэтью Робинсон"

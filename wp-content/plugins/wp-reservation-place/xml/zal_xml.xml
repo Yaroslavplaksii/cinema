@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<places>
+	<ROW>
+		<COL><![CDATA[
+			<place r='0' c='1'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='0' c='2'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='0' c='3'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='0' c='4'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='0' c='5'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='0' c='6'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='0' c='7'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='0' c='8'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='0' c='9'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='0' c='10'>
+			</place>
+		]]></COL>
+	</ROW>
+	<ROW>
+		<COL><![CDATA[
+			<place r='1' c='1'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='1' c='2'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='1' c='3'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='1' c='4'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='1' c='5'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='1' c='6'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='1' c='7'>
+				<price>100</price>
+				<name>07</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='1' c='8'>
+				<price>100</price>
+				<name>08</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='1' c='9'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='1' c='10'>
+			</place>
+		]]></COL>
+	</ROW>
+	<ROW>
+		<COL><![CDATA[
+			<place r='2' c='1'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='2' c='2'>
+				<price>50</price>
+				<name>01</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='2' c='3'>
+				<price>50</price>
+				<name>02</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='2' c='4'>
+				<price>50</price>
+				<name>03</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='2' c='5'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='2' c='6'>
+				<price>100</price>
+				<name>09</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='2' c='7'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='2' c='8'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='2' c='9'>
+				<price>100</price>
+				<name>10</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='2' c='10'>
+			</place>
+		]]></COL>
+	</ROW>
+	<ROW>
+		<COL><![CDATA[
+			<place r='3' c='1'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='3' c='2'>
+				<price>50</price>
+				<name>04</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='3' c='3'>
+				<price>50</price>
+				<name>05</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='3' c='4'>
+				<price>50</price>
+				<name>06</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='3' c='5'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='3' c='6'>
+				<price>100</price>
+				<name>11</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='3' c='7'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='3' c='8'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='3' c='9'>
+				<price>100</price>
+				<name>14</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='3' c='10'>
+			</place>
+		]]></COL>
+	</ROW>
+	<ROW>
+		<COL><![CDATA[
+			<place r='4' c='1'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='4' c='2'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='4' c='3'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='4' c='4'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='4' c='5'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='4' c='6'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='4' c='7'>
+				<price>100</price>
+				<name>12</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='4' c='8'>
+				<price>100</price>
+				<name>13</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='4' c='9'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='4' c='10'>
+			</place>
+		]]></COL>
+	</ROW>
+	<ROW>
+		<COL><![CDATA[
+			<place r='5' c='1'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='5' c='2'>
+				<price>100</price>
+				<name>15</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='5' c='3'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='5' c='4'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='5' c='5'>
+				<price>50</price>
+				<name>40</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='5' c='6'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='5' c='7'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='5' c='8'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='5' c='9'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='5' c='10'>
+			</place>
+		]]></COL>
+	</ROW>
+	<ROW>
+		<COL><![CDATA[
+			<place r='6' c='1'>
+				<price>100</price>
+				<name>17</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='6' c='2'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='6' c='3'>
+				<price>100</price>
+				<name>18</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='6' c='4'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='6' c='5'>
+				<price>50</price>
+				<name>19</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='6' c='6'>
+				<price>50</price>
+				<name>20</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='6' c='7'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='6' c='8'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='6' c='9'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='6' c='10'>
+			</place>
+		]]></COL>
+	</ROW>
+	<ROW>
+		<COL><![CDATA[
+			<place r='7' c='1'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='7' c='2'>
+				<price>100</price>
+				<name>16</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='7' c='3'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='7' c='4'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='7' c='5'>
+				<price>50</price>
+				<name>21</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='7' c='6'>
+				<price>50</price>
+				<name>22</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='7' c='7'>
+				<price>50</price>
+				<name>23</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='7' c='8'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='7' c='9'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='7' c='10'>
+				<price>50</price>
+				<name>28</name>
+			</place>
+		]]></COL>
+	</ROW>
+	<ROW>
+		<COL><![CDATA[
+			<place r='8' c='1'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='8' c='2'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='8' c='3'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='8' c='4'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='8' c='5'>
+				<price>50</price>
+				<name>24</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='8' c='6'>
+				<price>50</price>
+				<name>25</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='8' c='7'>
+				<price>50</price>
+				<name>26</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='8' c='8'>
+				<price>50</price>
+				<name>27</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='8' c='9'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='8' c='10'>
+				<price>50</price>
+				<name>29</name>
+			</place>
+		]]></COL>
+	</ROW>
+	<ROW>
+		<COL><![CDATA[
+			<place r='9' c='1'>
+				<price>50</price>
+				<name>36</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='9' c='2'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='9' c='3'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='9' c='4'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='9' c='5'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='9' c='6'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='9' c='7'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='9' c='8'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='9' c='9'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='9' c='10'>
+				<price>50</price>
+				<name>30</name>
+			</place>
+		]]></COL>
+	</ROW>
+	<ROW>
+		<COL><![CDATA[
+			<place r='10' c='1'>
+				<price>50</price>
+				<name>37</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='10' c='2'>
+				<price>50</price>
+				<name>38</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='10' c='3'>
+				<price>50</price>
+				<name>39</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='10' c='4'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='10' c='5'>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='10' c='6'>
+				<price>50</price>
+				<name>35</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='10' c='7'>
+				<price>50</price>
+				<name>34</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='10' c='8'>
+				<price>50</price>
+				<name>33</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='10' c='9'>
+				<price>50</price>
+				<name>32</name>
+			</place>
+		]]></COL>
+		<COL><![CDATA[
+			<place r='10' c='10'>
+				<price>50</price>
+				<name>31</name>
+			</place>
+		]]></COL>
+	</ROW>
+</places>
